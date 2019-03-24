@@ -1,2 +1,2 @@
 # LWNet
-A rearranged project of 
+A rearranged copy of light-weight-refinenet.
